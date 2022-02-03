@@ -32,4 +32,4 @@ NODEJS Discordjsv13 running on Brainshop
 ## Credits
 
 - Thanks [BrainshopAI](http://brainshop.ai/) for providing free and fast clever bot API
-- Thank you [carbowix](https://github.com/Carbowix/Cleve) for making a wonderful opensource Bot
+- Thank you [Carbowix](https://github.com/Carbowix/Cleve) for making a wonderful opensource Bot
