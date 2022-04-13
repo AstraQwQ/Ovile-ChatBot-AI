@@ -13,15 +13,9 @@ NODEJS Discordjsv13 running on Brainshop
 - Once created and logged-in, Press **create a brain** then press **root brain**
 - Enter your custom bot name and make sure details match the following:
 
-<img src="https://i.ibb.co/WGkXrw1/tut-02.png">
-
 - Edit [misc/config.json](https://github.com/Carbowix/Cleve/blob/master/misc/config.json) with the corresponding data given: 
 
 **NOTE**: Don't edit **"url"**
-
-<img src="https://i.ibb.co/3y2PXDt/tut-03.png">
-
-
 
 - Add a text [channel id](https://www.youtube.com/watch?v=NLWtSHWKbAI) to control bot talking areas. (Optional)
 
